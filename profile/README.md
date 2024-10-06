@@ -13,6 +13,8 @@
 
 
 ### TO-DO:
+- [ ] DOH
+- [ ] DOT
 - [ ] windows app
 - [ ] linux app
 - [ ] android app
