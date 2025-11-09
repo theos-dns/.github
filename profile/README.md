@@ -21,3 +21,6 @@
 - [ ] linux app
 - [ ] android app
 - [ ] ios app 
+
+## Diagram
+![theos-dns](https://github.com/user-attachments/assets/013ea8f4-bd1e-4f9f-8e10-fe028462ebe1)
